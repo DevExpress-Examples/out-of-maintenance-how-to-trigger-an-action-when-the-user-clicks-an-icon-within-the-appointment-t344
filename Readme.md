@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomAppointmentImageHitTest/Form1.cs) (VB: [Form1.vb](./VB/CustomAppointmentImageHitTest/Form1.vb))
+<!-- default file list end -->
 # How to trigger an action when the user clicks an icon within the appointment
 
 
